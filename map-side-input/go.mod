@@ -2,7 +2,7 @@ module sideinput
 
 go 1.21.2
 
-require github.com/numaproj/numaflow-go v0.7.0-rc1.0.20240412173841-31f81f1506cd
+require github.com/numaproj/numaflow-go v0.7.0-rc2
 
 require (
 	github.com/golang/protobuf v1.5.3 // indirect
